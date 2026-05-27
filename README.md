@@ -1,9 +1,14 @@
-#### Rohan Vaidya
+# Rohan Vaidya
 
-hi!
+Hi! Here are some of my projects. (More to come...👀)
 
-Projects
+## Projects
 1. [The Community Signal](https://thecommunitysignal.vercel.app/) - A website made for the '26 TSA State Competition, in a team of 5, under the event of Webmaster HS. Places Top 12 in the state and competed with many talented teams across diverse regions/schools.
+   ### Stack
+   - Firebase (Auth & DB management)
+   - NextJS/React/NodeJS/Vercel/Yarn (Foundation/Framework, Management, & Deployment)
+   - EmailJS/randomUserAPI/Google Maps MyMaps (External Interfaces & APIs)
+   - TypeScript/JSX/CSS (Languages)
 <!--
 **rohan-va/rohan-va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
