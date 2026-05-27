@@ -3,7 +3,7 @@
 hi!
 
 Projects
-1. [The Community Signal](https://thecommunitysignal.vercel.app/) - A website made for the '26 TSA State Competition under the event of Webmaster HS. Places Top 12 in the state and competed with many talented teams across diverse regions/schools.
+1. [The Community Signal](https://thecommunitysignal.vercel.app/) - A website made for the '26 TSA State Competition, in a team of 5, under the event of Webmaster HS. Places Top 12 in the state and competed with many talented teams across diverse regions/schools.
 <!--
 **rohan-va/rohan-va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
